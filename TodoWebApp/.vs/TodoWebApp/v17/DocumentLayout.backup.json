@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gunaa\\OneDrive\\Desktop\\ABHIRAM\u0027S WORKSPACE\\Developer-2\\Webdev\\React\\TodoWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{275A7139-E926-E595-B74A-85264AB83461}|todowebapp.esproj|c:\\users\\gunaa\\onedrive\\desktop\\abhiram\u0027s workspace\\developer-2\\webdev\\react\\todowebapp\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{275A7139-E926-E595-B74A-85264AB83461}|todowebapp.esproj|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275A7139-E926-E595-B74A-85264AB83461}|todowebapp.esproj|c:\\users\\gunaa\\onedrive\\desktop\\abhiram\u0027s workspace\\developer-2\\webdev\\react\\todowebapp\\src\\components\\todolist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{275A7139-E926-E595-B74A-85264AB83461}|todowebapp.esproj|solutionrelative:src\\components\\todolist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275A7139-E926-E595-B74A-85264AB83461}|todowebapp.esproj|c:\\users\\gunaa\\onedrive\\desktop\\abhiram\u0027s workspace\\developer-2\\webdev\\react\\todowebapp\\src\\components\\todolist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{275A7139-E926-E595-B74A-85264AB83461}|todowebapp.esproj|solutionrelative:src\\components\\todolist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275A7139-E926-E595-B74A-85264AB83461}|todowebapp.esproj|c:\\users\\gunaa\\onedrive\\desktop\\abhiram\u0027s workspace\\developer-2\\webdev\\react\\todowebapp\\src\\components\\todoitem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{275A7139-E926-E595-B74A-85264AB83461}|todowebapp.esproj|solutionrelative:src\\components\\todoitem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\gunaa\\OneDrive\\Desktop\\ABHIRAM\u0027S WORKSPACE\\Developer-2\\Webdev\\React\\TodoWebApp\\src\\main.jsx",
+              "RelativeDocumentMoniker": "src\\main.jsx",
+              "ToolTip": "C:\\Users\\gunaa\\OneDrive\\Desktop\\ABHIRAM\u0027S WORKSPACE\\Developer-2\\Webdev\\React\\TodoWebApp\\src\\main.jsx",
+              "RelativeToolTip": "src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-23T20:08:11.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoList.jsx",
+              "DocumentMoniker": "C:\\Users\\gunaa\\OneDrive\\Desktop\\ABHIRAM\u0027S WORKSPACE\\Developer-2\\Webdev\\React\\TodoWebApp\\src\\components\\TodoList.jsx",
+              "RelativeDocumentMoniker": "src\\components\\TodoList.jsx",
+              "ToolTip": "C:\\Users\\gunaa\\OneDrive\\Desktop\\ABHIRAM\u0027S WORKSPACE\\Developer-2\\Webdev\\React\\TodoWebApp\\src\\components\\TodoList.jsx",
+              "RelativeToolTip": "src\\components\\TodoList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-23T20:04:38.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoList.css",
+              "DocumentMoniker": "C:\\Users\\gunaa\\OneDrive\\Desktop\\ABHIRAM\u0027S WORKSPACE\\Developer-2\\Webdev\\React\\TodoWebApp\\src\\components\\TodoList.css",
+              "RelativeDocumentMoniker": "src\\components\\TodoList.css",
+              "ToolTip": "C:\\Users\\gunaa\\OneDrive\\Desktop\\ABHIRAM\u0027S WORKSPACE\\Developer-2\\Webdev\\React\\TodoWebApp\\src\\components\\TodoList.css",
+              "RelativeToolTip": "src\\components\\TodoList.css",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-23T20:04:26.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItem.jsx",
+              "DocumentMoniker": "C:\\Users\\gunaa\\OneDrive\\Desktop\\ABHIRAM\u0027S WORKSPACE\\Developer-2\\Webdev\\React\\TodoWebApp\\src\\components\\TodoItem.jsx",
+              "RelativeDocumentMoniker": "src\\components\\TodoItem.jsx",
+              "ToolTip": "C:\\Users\\gunaa\\OneDrive\\Desktop\\ABHIRAM\u0027S WORKSPACE\\Developer-2\\Webdev\\React\\TodoWebApp\\src\\components\\TodoItem.jsx",
+              "RelativeToolTip": "src\\components\\TodoItem.jsx",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-23T20:04:16.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
