@@ -7,3 +7,4 @@ This repo is for some simple projects and implementations for miscellaneous conc
 4. [Todo web app](https://github.com/abhiknowswhy/simple-programs/tree/main/TodoWebApp) - a simple react app for maintaining a to do list
 5. [Merkle trees](https://github.com/abhiknowswhy/simple-programs/tree/main/Merkle%20trees) - WIP
 6. [Event keycodes](https://github.com/abhiknowswhy/simple-programs/tree/main/event-keycodes) - a simple vanilla JS app which displays key code and details for a button on keyboard
+7. [Shopping list project](https://github.com/abhiknowswhy/simple-programs/tree/main/shopping-list-html-css-js) - a simple vanilla JS app of an interactive shopping list (basic JS functionalities)
